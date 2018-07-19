@@ -5,6 +5,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/01-Singleton-Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-Factory-Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-Abstract-Factory-Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_Strategy-Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_Facade-Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-Proxy-Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-Proxy-Pattern-Dynamic" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
